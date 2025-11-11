@@ -71,4 +71,16 @@ export default defineConfig([
   },
 ]);
 ```
+
 # react-quiz
+
+This project is created based on the Udemy course on React by Maximilian Schwarzmüller.
+Built with Vite and by integrating React with TypeScript and TailwindCSS.
+
+Learnings conclude:
+
+- React's useState, useRef, useEffect and useCallback hooks.
+- Alternate ways to solve challenges without useEffect hook.
+- Benefits of using useCallback hook to point to a particular function's object reference.
+- Understanding and managing TypeScript errors.
+- Using TailwindCSS for styling purposes.
